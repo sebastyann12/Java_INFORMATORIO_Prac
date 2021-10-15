@@ -13,6 +13,6 @@ public class Ejercicio1_6 {
         for (int i=1; i<=num2; i++ ) {
         pot= pot*num1 ;       
         }
-        System.out.println(num1 + " elevado a " + num2 + "=" +pot);
+        System.out.println(num1 + " elevado a " + num2 + " = " +pot);
     }
 }
